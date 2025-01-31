@@ -1,0 +1,1 @@
+This repository demonstrates a bug in React Router Dom v6 related to nested routes. Navigating to a route that has a nested route sometimes fails to render the expected component, instead showing a blank screen or the previously rendered component.  The provided solution corrects this behavior.
